@@ -1,6 +1,13 @@
-# myapp
+# Clean Architecture based Flutter Application 
 
-A new Flutter project.
+This is a complex Flutter project. That project has a different approches, widgets, techniques 
+and publishing (Continues Integrating / CD) lines. 
+
+## Releases
+
+You can follow the every new release in release section.
+Different releases means added new feature in the project.
+
 
 ## Getting Started
 
